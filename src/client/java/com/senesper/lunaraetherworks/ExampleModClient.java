@@ -1,4 +1,4 @@
-package com.example;
+package com.senesper.lunaraetherworks;
 
 import net.fabricmc.api.ClientModInitializer;
 
